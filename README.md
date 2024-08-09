@@ -1,7 +1,7 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 8 de agosto de 2024
-Empresa: Abstergo Industries 
+Empresa: Abstergo Industries
 Responsável: Gonçalves Alves
 
 ## Introdução
